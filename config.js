@@ -3,12 +3,12 @@
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Cheems Bot MD
+//© 2022 Zenx1 Bot Inc. Zenx1 Bot MD
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
 //recode kar ke youtube pe upload kar rhe ya
 //codes copy kar ke apne script me dal rhe
-//hai to, description me xeon ka yt channel
+//hai to, description me yassine A6 ka yt channel
 // ka link paste kr dena as a cradit or github 
 //repo me bhi tag kardena baki jo
 //bhi karna hai apki marzi, thank you!🦄
@@ -16,7 +16,7 @@
 //If you recode and uploading on your channel
 //or copy pasting the codes in ur script, 
 //i give permission to do as long as you
-//put Xeons youtube channel link in the video
+//put yassine A6 youtube channel link in the video
 //description and tag me on githuh repo, 
 //thank you🦄
 //════════════════════════════//
@@ -41,18 +41,18 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['+212674874107'] //ur owner number
+global.owner = [+212674874107'] //ur owner number
 global.ownername = "+212674874107"
 global.ytname = "YT: yassine A6" //ur yt chanel name
-global.socialm = "Insta: 7x8.q_" //ur github or insta name
-global.location = "Morocco, Agadir" //ur location
+global.socialm = "Ig: 7x8.q_" //ur github or insta name
+global.location = "Morocco , Agadir" //ur location
 
 //bot bombdy
 global.botname = "Z E N X 1 ❄️" //ur bot name
 global.websitex = "https://chat.whatsapp.com/JmXUEkiDeL72hXAGDLFXI3" //ur website
-global.vidmenu = { url: 'https://chat.whatsapp.com/JmXUEkiDeL72hXAGDLFXI3' } //gif and video menu
+global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Z E N X 1 🗽 "
-global.author = "yasseen 🏌️‍♂️"
+global.author = "yassen 🏌️‍♂️"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['+212674874107'] //ur owner tag
